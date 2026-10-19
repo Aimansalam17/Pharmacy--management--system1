@@ -1,0 +1,4 @@
+3,brufen,250.0,2,rxio
+4,extore,150.0,12,rxio
+57,panadol,2.0,12,rxio
+43,montekulast,12.0,3,rxio
